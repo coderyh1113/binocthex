@@ -55,3 +55,10 @@ while True:
     elif a == "5":
         print("-  bye, bye  -")
         break
+    else:
+        print("Something is wrong.")
+        print("please try again.")
+        print("")
+        input("press enter to continue...")
+        os.system('clear')
+        time.sleep(0.99)
