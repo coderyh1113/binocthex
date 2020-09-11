@@ -2,7 +2,7 @@ import time
 import os
 import socket
 
-os.system('cls')
+os.system('clear')
 
 while True:
     print("                    ----------                     ")
@@ -26,7 +26,7 @@ while True:
         print(bin(int(bina)))
         time.sleep(1)
         input("press enter to continue...")
-        os.system('cls')
+        os.system('clear')
         time.sleep(0.99)
     elif a == "2":
         octa = input("integer to convert to Octal: ")
@@ -34,7 +34,7 @@ while True:
         print(oct(int(octa)))
         time.sleep(1)
         input("press enter to continue...")
-        os.system('cls')
+        os.system('clear')
         time.sleep(0.99)
     elif a == "3":
         hexa = input("integer to convert to Hexadecimal: ")
@@ -42,7 +42,7 @@ while True:
         print(hex(int(hexa)))
         time.sleep(1)
         input("press enter to continue...")
-        os.system('cls')
+        os.system('clear')
         time.sleep(0.99)
     elif a == "4":
         ida = input("String for which you want to know the unique value (It works like Python's id()): ")
@@ -50,7 +50,7 @@ while True:
         print(id(ida))
         time.sleep(1)
         input("press enter to continue...")
-        os.system('cls')
+        os.system('clear')
         time.sleep(0.99)
     elif a == "5":
         print("-  bye, bye  -")
