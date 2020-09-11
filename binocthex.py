@@ -2,6 +2,8 @@ import time
 import os
 import socket
 
+os.system('cls')
+
 while True:
     print("                    ----------                     ")
     print("                 -----------------                   ")
