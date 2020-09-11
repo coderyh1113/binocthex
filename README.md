@@ -11,13 +11,9 @@ Termux:
 $ pkg install git
 
 $ pkg install python
-$ git clone https://github.com/coderyh1113/binocthex/
-$ cd binocthex
-$ python binocthex.py
 
-Linux:
-$ apt-get install git
-$ apt-get install python
-$ git clone https://github.com/coderyh1113/binocthex
+$ git clone https://github.com/coderyh1113/binocthex/
+
 $ cd binocthex
-$ ./binocthex.py
+
+$ python binocthex.py
