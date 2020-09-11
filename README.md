@@ -13,9 +13,8 @@ $ cd binocthex
 $ python binocthex.py
 
 Linux:
-$ sudo su
-# apt-get install git
-# apt-get install python
-# git clone https://github.com/coderyh1113/binocthex
-# cd binocthex
-# ./binocthex.py
+$ apt-get install git
+$ apt-get install python
+$ git clone https://github.com/coderyh1113/binocthex
+$ cd binocthex
+$ ./binocthex.py
