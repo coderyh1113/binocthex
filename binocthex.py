@@ -12,6 +12,7 @@ while True:
     print("\033[37m" + "              ------------------------                 ")
     print("                 -----------------                   ")
     print("                    ----------                     ")
+    print("                 made by coder yh                  ")
     print("")
     print("[1] Binary number")
     print("[2] Octal number")
